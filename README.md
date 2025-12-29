@@ -1,4 +1,4 @@
-# My SRE Portfolio
+# Brendan Vandercar's SRE Portfolio
 
 Welcome to my Site Reliability Engineering portfolio! This repository captures my journey and work in building, scaling, and maintaining reliable software systems.
 
@@ -40,7 +40,7 @@ To explore the code:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/my-sre-portfolio.git
+   git clone https://github.com/LunaticSystem/my-sre-portfolio.git
    ```
 2. Navigate to a specific project directory to see its individual README and usage instructions.
 
@@ -48,5 +48,5 @@ To explore the code:
 
 Feel free to reach out to discuss SRE, DevOps, or any of the projects here!
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email**: [brendan.vandercar27@gmail.com](mailto:brendan.vandercar27@gmail.com)
+- **LinkedIn**: [www.linkedin.com/in/brendan-vandercar-264b6a48](https://www.linkedin.com/in/brendan-vandercar-264b6a48)
